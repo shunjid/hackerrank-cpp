@@ -6,12 +6,14 @@ This repository contains solutions of problems in the [Hackerrank](https://www.h
 
 | Problem Name   | Solution  |
 |---|---|
-| Hello world   | [Link](hello-world.cpp)   |
-| Conditions  | [Link](condition.cpp) |
-| For loop   | [Link](for-loop.cpp)   |
-| Functions  | [Link](functions.cpp)  |
-| Arrays  | [Link](arrays.cpp)   |
-| Pointer  | [Link](pointer.cpp)   |
-| I/O  | [Link](cpp-input-and-output.cpp)   |
-| Data types  | [Link](c-tutorial-basic-data-types.cpp)  |
+| Hello world   | [Code](hello-world.cpp)   |
+| Conditions  | [Code](condition.cpp) |
+| For loop   | [Code](for-loop.cpp)   |
+| Functions  | [Code](functions.cpp)  |
+| Arrays  | [Code](arrays.cpp)   |
+| Pointer  | [Code](pointer.cpp)   |
+| I/O  | [Code](cpp-input-and-output.cpp)   |
+| Data types  | [Code](c-tutorial-basic-data-types.cpp)  |
 | Variable sized array  | [Introduction-Challenge](variable-sized-arrays.cpp)  |
+| String  | [Code](strings.cpp)  |
+| String Stream  | [Code](stringstream.cpp)  |
