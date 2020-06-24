@@ -17,3 +17,5 @@ This repository contains solutions of problems in the [Hackerrank](https://www.h
 | Variable sized array  | [Introduction-Challenge](variable-sized-arrays.cpp)  |
 | String  | [Code](strings.cpp)  |
 | String Stream  | [Code](stringstream.cpp)  |
+| Struct  | [Code](struct.cpp)  |
+| Class Object  | [Code](class-object.cpp)  |
